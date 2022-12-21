@@ -2,7 +2,7 @@
 
 This is our implementation for the paper:
 
-TED: Towards Discovering Top-𝑘 Edge-Diversified Patterns in a Graph Database
+TED+: Towards Discovering Top-𝑘 Edge-Diversified Patterns in a Graph Database
 
 Ted is implemented with Java (JDK1.8).
 
